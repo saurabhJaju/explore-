@@ -1,0 +1,14 @@
+Package: explore
+Type: Package
+Title: Exploring data within a dataset
+Version: 1.0
+Date: 2015-12-22
+Author: Saurabh Jaju
+Maintainer: Saurabh Jaju <saurabh.jaju2@gmail.com>
+Description: The packages provides detailed summary of factor and numeric
+    features in a dataset, It also provides automatic frequency bar plots and pie
+    charts of the factor variable in dataset
+License: What license is it under?
+Depends:
+    rCharts,plyr,moments,reshape2
+RoxygenNote: 5.0.1

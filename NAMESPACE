@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+#export("numericVarSumm","factorVarSumm","freqBarPlots","freqPiePlots")
+importFrom(plyr,"ldply")
+import(utils,stats,grDevices,graphics,moments,rCharts,reshape2)
